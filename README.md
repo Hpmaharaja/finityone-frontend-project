@@ -67,6 +67,6 @@
   4) https://rifetheme.com/lander/
 
   PHASE #2
-  5) https://colorlib.com/etc/cf/ContactFrom_v3/index.html
-  6) https://colorlib.com/etc/cf/ContactFrom_v17/index.html
-  7) https://colorlib.com/etc/cf/ContactFrom_v14/index.html
+  1) https://colorlib.com/etc/cf/ContactFrom_v3/index.html
+  2) https://colorlib.com/etc/cf/ContactFrom_v17/index.html
+  3) https://colorlib.com/etc/cf/ContactFrom_v14/index.html
